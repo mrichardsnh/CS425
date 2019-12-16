@@ -1,0 +1,35 @@
+20 20
+perlin 4 4 cubic 1 0.1 blend imgs/rock.jpeg imgs/water.jpeg
+
+Objects
+b imgs/cannonball.png 0.0 0.15
+t imgs/tower.png 0.0 0.3
+w imgs/brick.png 0.0 0.47
+
+Characters
+z imgs/zombie.png 0.1
+k imgs/chicken.png  0.15
+d imgs/dragon.png 0.075
+
+
+World
+booooooodooooooooooo
+oooooooooooooooooooo
+ooooooooozoooooooooo
+oooooooooooooooooowo
+oooooooooooooooooowo
+oooooooooooooooooowo
+oooooooooooooooooowo
+toooooooookooooooowo
+owwwwwwooooooooooooo
+oooooowooooooooooooo
+oooooowooooooooooooo
+oooooowooowwwwwooooo
+oooooowooooooowooooo
+oooooowooozooowooooo
+oooooowwwwoooowooooo
+otoooooooooooowooooo
+oooooooooooooowwwwwt
+wooooooooooooooooooo
+wooooooooooooooooooo
+wwwooooooooooooooooo
